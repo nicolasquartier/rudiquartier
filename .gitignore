@@ -5,8 +5,8 @@
 **/*.iml
 *.iml
 *.log
+**/src/test/resources/application.properties
 classes/
 ./classes/
-**/src/main/resources/**
 **/src/test/resources/**
 /logging/
